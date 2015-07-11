@@ -1,2 +1,3 @@
 # miniature-happiness
-A simple app landing page by 
+
+A simple app landing page 
